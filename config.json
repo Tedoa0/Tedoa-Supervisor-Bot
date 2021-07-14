@@ -1,0 +1,42 @@
+{
+    "bots":{
+        "footer":"Tedoa 💜 ApexSquad",
+        "VoiceChannel":"Bot Sesli Kanal ID",
+        "status":"Tedoa 🖤 ApexSquad"
+    },
+    "cmute":{
+        "mutehammer":["Mute Hammer Rol ID"],
+        "muterol":"Mute Rol ID",
+        "mutelog":"Mute Log ID"
+       },
+
+       "vmute":{
+        "vmutehammer":["Vmute Hammer Rol ID"],
+        "vmuterol":"Vmute Rol ID",
+        "vmutelog": "Vmute Log ID"
+        },
+        
+      "jail":{
+      "jailhammer":["Jail Hammer Rol ID"],
+      "jailrol":"Jail Rol ID",
+      "jaillog":"Jail Log ID"
+    },
+
+    "ban":{
+      "banhammer":["Ban Hammer Rol ID"],
+      "banlog":"Ban Log ID",
+      "bangif":" https://cdn.discordapp.com/attachments/787761299374211072/787857265452777502/giphy.gif"
+      },
+    
+     
+        "diğer":{
+            "sicilhammer":["Sicil Hammer Rol ID"],
+            "booster":"Booster Rol ID",
+            "sunucuName":"Sunucu adı",
+            "chat":"Chat Kanal ID",
+            "tag":"Tag",
+            "stathammer":"Stat Hammer Rol ID"
+          }
+          
+        
+}

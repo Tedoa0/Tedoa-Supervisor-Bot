@@ -1,0 +1,20 @@
+{
+  "name": "tedoa-github-supervisor",
+  "version": "1.0.0",
+  "description": "Tedoss",
+  "main": "Tedoa.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Tedoa & ApexSquad",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
